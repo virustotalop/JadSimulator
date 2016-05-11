@@ -1,6 +1,11 @@
 # JadSimulator
 Used to simulate jad from the fight caves in OSRS
 
+# Whats working?
+* At the moment nothing!
+  * The prayer buttons are aligned but nothing is setup yet.
+  * I need to do research on all the functions of how jad works.
+
 # First time setup
 * You need internet for the first time setup.
 * Images are downloaded from the [rswiki](http://2007.runescape.wikia.com/).
