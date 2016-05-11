@@ -20,7 +20,8 @@ Used to simulate jad from the fight caves in OSRS
 * By submitting you are agreeing that you are legally allowed to contribute the code provided and are not under any arbitration agreements.
 
 # FAQ 
-* To be completed
+* Why was this created?⋅
+  * Well after trying to beat fight caves once I figured I would just make this instead of trying again.
 
 # Licenses
 JadSimulator is licensed under the GNU Lesser General Public License v3.
