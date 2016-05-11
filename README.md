@@ -14,7 +14,7 @@ Used to simulate jad from the fight caves in OSRS
 
 # Contributing
 * Make a fork
-* Sign the contributors. In the format github username - github user link.
+* Sign the [contributors.md](CONTRIBUTORS.MD). In the format github username - github user link.
 * Test all changes before submitting
 * Submit a pull request with details on the changes and why it should be submitted.
 * By submitting you are agreeing that you are legally allowed to contribute the code provided and are not under any arbitration agreements.
