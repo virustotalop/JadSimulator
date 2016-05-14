@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace JadSimulator
 {
-    class PictureButton
+    class PictureButtonStyle
     {
         public static void setButtonStyle(Button button, string fileLocation)
         {

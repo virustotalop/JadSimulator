@@ -75,7 +75,14 @@
     <Compile Include="JadSimulatorMain.Designer.cs">
       <DependentUpon>JadSimulatorMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="PictureButton.cs" />
+    <Compile Include="MageButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PrayerEnum.cs" />
+    <Compile Include="RangeButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PictureButtonStyle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="JadSimulatorLoad.resx">
